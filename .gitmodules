@@ -1,0 +1,6 @@
+[submodule "Logger"]
+	path = Logger
+	url = https://github.com/StjepanPrakljacic/Logger.git
+[submodule "ErrorHandler"]
+	path = ErrorHandler
+	url = https://github.com/StjepanPrakljacic/ErrorHandler.git
